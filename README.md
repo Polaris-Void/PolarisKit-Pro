@@ -71,18 +71,6 @@ PolarisKit-Pro bundles all 11 standalone Polaris-Void utilities:
 4. If the selected module requires a target path (e.g., USB Immunizer, Renamer, Auditor), use the **BROWSE** button to lock the folder.
 5. Click the corresponding action button. Monitor execution in the **LIVE LOG** terminal.
 
-### Building from Source
-To compile `PolarisKit-Pro.exe` locally:
-
-1. **Prerequisites:**
-   * Install Python 3.10+ (ensure `python` is added to your system `PATH`).
-   * Git installed on your system.
-
-2. **Clone the Repository:**
-   ```cmd
-   git clone https://github.com/Polaris-Void/PolarisKit-Pro.git
-   cd PolarisKit-Pro/python
-
 ---
 
 ## ⚖️ Absolute Legal Disclaimer, Waiver & Limitation of Liability
